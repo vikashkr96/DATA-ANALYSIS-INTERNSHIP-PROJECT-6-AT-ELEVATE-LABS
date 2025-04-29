@@ -53,5 +53,5 @@ SQL Concepts Used:
 👉Allocate marketing resources based on sales cycles
 
 👉 clean data for BI tools and reports
-[]()
+[](Screenshot.JPG)
 
